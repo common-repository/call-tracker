@@ -1,0 +1,50 @@
+.ct-cl { display: block; height: 0; font-size: 0; line-height: 0; text-indent: -4000px; clear: both; }
+.ct-hidden { display: none; }
+
+.ct-icon { background: url(images/ct-logo.png) no-repeat 0 0; float: left; width: 32px; height: 33px; margin:7px 15px 5px 5px; }
+.ct-section { padding-top: 20px; width: 640px; }
+
+
+.ct-container { width: 960px; overflow: hidden; }
+.ct-section { float: left; }
+.ct-section .pre { padding: 8px; border-radius: 4px; white-space: normal; margin: 5px 0; background: #e7e7e7;  }
+.ct-section.ct-section-small { width: 371px; }
+.ct-section h3 { font-weight: normal; font-size: 22px; line-height: 30px; padding: 0 0 10px; margin: 0; }
+.ct-section p { margin-top: 0; }
+.ct-section a { color: #000; }
+.ct-section select,
+.ct-section .ct-field { width: 370px; margin-bottom: 10px; }
+.ct-section .ct-field.ct-small { width: 250px; float: right;  }
+.ct-section .ct-field.ct-field-top { height: 28px; }
+
+.ct-section textarea.ct-field {height: 100px; }
+.ct-section .ct-inner-border-section { border-bottom: 1px solid #dddddd; margin-bottom: 9px; }
+.ct-section .ct-inner-section { margin-bottom: 20px; }
+
+.ct-section .ct-select-section .ct-left { float: left; width: 370px; }
+.ct-section .ct-select-section .ct-right { float: right; width: 250px; }
+
+.ct-section .ct-entries-section { padding: 5px 0 15px; }
+
+.ct-section .ct-add-new-plus { padding-right: 3px; }
+
+.ct-section .ct-entry-section { position: relative;  }
+.ct-section .ct-entry-section:first-child .ct-remove-entry { display: none; }
+.ct-section .ct-entry-section .ct-remove-entry { position: absolute; top: 4px; right: -13px; z-index: 5; text-decoration: none; }
+.ct-section .domain-entry { display: block; clear: both; }
+.ct-section .domain-name {width: 350px; background: #e7e7e7; margin-bottom: 2px; overflow: hidden; padding: 10px; color: #000; display: block; float: left;  }
+.ct-section .domain-count { min-width: 50px; float: left; padding: 10px; display: block; text-align: center; font-weight: bold; background: #3ba5ff; margin-left: 2px; color: #fff; }
+
+.ct-section .ct-default-numbers  label{ display: block; padding-bottom: 2px; }
+
+.ct-section .ct-success-message p { color: green }
+
+.ct-banners { float: right; width: 267px; position: relative; margin-top: -30px; }
+.ct-banners img { display: block; margin-bottom: 30px; }
+
+.ct-video { padding-top: 40px; }
+.ct-video iframe { border: 1px solid black; }
+.ct-video h3 { padding-bottom: 5px; }
+
+.ct-left-indent { padding: 10px 0 0 25px; }
+.ct-left-indent p { padding-top: 5px; }
